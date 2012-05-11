@@ -1,4 +1,4 @@
 # git-money
-> Real playas keep tabs on their cheddar wid Git (prototype)
+> Real playas keep tabs on their cheddar wid Git
 
-Financial Tracking, via Git Versioning &amp; Branching
+Prototype for financial tracking via Git versioning &amp; branching.
